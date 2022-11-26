@@ -1,4 +1,5 @@
-import React from "react";
+import React from 'react';
+import './ProjectCard.css'
 
 class ProjectCard extends React.Component {
   render() {
@@ -9,14 +10,14 @@ class ProjectCard extends React.Component {
           <h3>{ name }</h3>
           <img src={ gif } alt={`${name} video`} />
           <p>{ description }</p>
-          <div id="project-links">
+          <section className="project-links">
             <a href={ link } rel="noreferrer" className="white" target="_blank">
               <i className="bi bi-window-plus"></i>
             </a>
             <a href={ github } rel="noreferrer" className="white" target="_blank">
               <i className="bi bi-github"></i>
             </a>
-          </div>
+          </section>
         </li>
       </ul>
     )
