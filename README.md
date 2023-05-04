@@ -15,9 +15,9 @@ Nos últimos meses, tenho passado a maior parte do tempo me dedicando a aprender
 <br/>  
 
 
-## Sobre Rapido  
+##  Atualmente:
 
-- 📚 No momento estou estudando desenvolvimento Full-Stack Web
+- 📚 Estou estudando desenvolvimento Full-Stack Web
 - ✏️ Estou aprendendo tecnologias Back-End
 
 
