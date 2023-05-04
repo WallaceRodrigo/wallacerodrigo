@@ -1,7 +1,10 @@
 ## Eu sou o Wallace um estudante full-stack na [Trybe](https://github.com/tryber)  
   
 
-Nos últimos meses, tenho passado a maior parte do tempo me dedicando a aprender programação FullStack (FrontEnd e BackEnd) de sites web. E abaixo estão algumas das skills que aprendi ao longo do tempo, também recomendo que veja meus projetos e repositórios pinados.  
+Nos últimos meses, tenho passado a maior parte do tempo me dedicando a aprender programação FullStack (FrontEnd e BackEnd) de sites web. E abaixo estão algumas das skills que aprendi ao longo do tempo, também recomendo que veja meus projetos e repositórios pinados.
+
+- 📚 No momento estou estudando desenvolvimento Full-Stack Web
+- ✏️ Estou aprendendo tecnologias Back-End
   
 
 <a href="https://github.com/WallaceRodrigo" target="_blank">
@@ -11,15 +14,6 @@ Nos últimos meses, tenho passado a maior parte do tempo me dedicando a aprender
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-<br/>  
-
-
-##  Atualmente:
-
-- 📚 Estou estudando desenvolvimento Full-Stack Web
-- ✏️ Estou aprendendo tecnologias Back-End
-
 
 <br/>  
 
