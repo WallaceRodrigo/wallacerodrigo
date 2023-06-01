@@ -59,9 +59,9 @@ Nos últimos meses, tenho passado a maior parte do tempo me dedicando a aprender
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceRodrigo&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceRodrigo&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceRodrigo&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
 <br />
-----
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
