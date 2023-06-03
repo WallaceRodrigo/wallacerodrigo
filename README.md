@@ -38,9 +38,8 @@ Nos últimos meses, tenho passado a maior parte do tempo me dedicando a aprender
 
 ### Back-End  
 <div align="center">  
-<a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
-<a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
 <a href="https://skillicons.dev">
+  <a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>
   <img src="https://skillicons.dev/icons?i=,docker,ts,nodejs,mysql,express,bash" />
 </a>
 </div>  
