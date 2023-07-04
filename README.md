@@ -33,7 +33,7 @@ Nos últimos meses, tenho passado a maior parte do tempo me dedicando a aprender
 ### Back-End  
 <div align="center">  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=,docker,ts,nodejs,mysql,express,postman,bash" />
+  <img src="https://skillicons.dev/icons?i=,docker,ts,nodejs,mysql,express,postman,bash,python" />
 </a>
 </div>  
 
