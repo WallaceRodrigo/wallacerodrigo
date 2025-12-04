@@ -1,7 +1,7 @@
 ## Eu sou o Wallace, Software Engineer junior na TMMentoring
   
 
-Nos últimos meses, tenho passado a maior parte do tempo me dedicando a aprender programação FullStack (FrontEnd e BackEnd) de sites web. E abaixo estão algumas das skills que aprendi ao longo do tempo, também recomendo que veja meus projetos e repositórios pinados.
+Nos últimos meses, tenho passado a maior parte do tempo me dedicando a aprender programação FullStack (FrontEnd e BackEnd) de sites web. E abaixo estão algumas das skills que aprendi ao longo do tempo, também recomendo que veja meus projetos e repositórios pinados
   
 
 <a href="https://github.com/WallaceRodrigo" target="_blank">
